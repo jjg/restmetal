@@ -22,3 +22,5 @@ The second is that I'd like to have some sort of code of conduct in place.  Firs
 Decided to rename the project to RESTMetal to avoid confusion with Apple's unrelated [WebMetal](https://en.wikipedia.org/wiki/WebGPU) project.
 
 Had a realization this morning that RESTMetal unblocks one of the barriers I ran into in another project [NextBook](https://codeberg.org/jjg/nextbook).  I'll leave documenting the details to the other project but it's exciting to already have another application for this project already.
+
+Needed to set git params.
