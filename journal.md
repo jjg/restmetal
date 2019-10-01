@@ -15,3 +15,10 @@ To that end there's a few things I'd like to include at the beginning of this pr
 What's not crystal-clear to me from the linked post is if there is a role for things like `develop` branches.  I've been working (involuntarily) with [gitflow](https://nvie.com/posts/a-successful-git-branching-model/) for so long that it feels spooky to have nothing more than `master` and feature branches, but maybe that's all you need...?
 
 The second is that I'd like to have some sort of code of conduct in place.  First and foremost I want something enforceable but ideally doesn't require too much policing (if you know me you know how I feel about police).  I haven't seen an existing CoC that I'm ready to adopt wholesale, but I'd also like to avoid creating something bespoke (I'm certainly no expert in this area and I'd like to avoid making mistakes others have corrected) so for now I'm on the lookout for something appropriate.
+
+
+## 10012019
+
+Decided to rename the project to RESTMetal to avoid confusion with Apple's unrelated [WebMetal](https://en.wikipedia.org/wiki/WebGPU) project.
+
+Had a realization this morning that RESTMetal unblocks one of the barriers I ran into in another project [NextBook](https://codeberg.org/jjg/nextbook).  I'll leave documenting the details to the other project but it's exciting to already have another application for this project already.
